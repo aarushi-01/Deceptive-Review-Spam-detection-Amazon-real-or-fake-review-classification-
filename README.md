@@ -58,4 +58,4 @@ The insights gained from this project are valuable for understanding deceptive o
 
 ## Contributors
 
-- [Your Name](https://github.com/aarushi-01)
+- [Aarushi Singh](https://github.com/aarushi-01)
