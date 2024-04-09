@@ -41,7 +41,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your_username/deceptive-opinion-spam-detection.git
+   git clone https://github.com/aarushi-01/deceptive-opinion-spam-detection.git
    ```
 
 2. **Install Dependencies**:
